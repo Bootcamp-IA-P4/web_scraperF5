@@ -49,6 +49,11 @@
     python manage.py scraper
     ```
 
+3. Tambien podemos ejecutar el runserver y ver la interfaz:
+    ```sh
+    python manage.py runserver
+    ```
+
 ## Despliegue con Docker
 1. Construye la imagen de Docker:
     ```sh
